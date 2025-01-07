@@ -23,12 +23,12 @@ FindItBack is a belongings finder platform designed to help individuals locate l
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/finditback.git
+   git clone https://github.com/Hanamantgouda/FindItback.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd finditback
+   cd FIB2
    ```
 
 3. Set up the database:
@@ -40,7 +40,7 @@ FindItBack is a belongings finder platform designed to help individuals locate l
    - Place the project folder in the `htdocs` directory.
 
 5. Access the application:
-   - Open your browser and navigate to `http://localhost/finditback`.
+   - Open your browser and navigate to `http://localhost/FIB2`.
 
 ## Usage
 1. Register as a new user and log in.
