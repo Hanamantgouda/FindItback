@@ -1,6 +1,6 @@
 # FindItBack
 
-FindItBack is a belongings finder platform designed to help individuals locate lost items on the college campus and allow users to claim items they have found. This user-friendly website ensures transparency and efficiency in managing lost-and-found items through a well-organized dashboard, notification system, and claim verification process.
+FindItBack is a belongings finder platform designed to help individuals locate lost items on the college campus and allow users to claim items they have lost. This user-friendly website ensures transparency and efficiency in managing lost-and-found items through a well-organized dashboard, notification system, and claim verification process.
 
 ## Features
 
