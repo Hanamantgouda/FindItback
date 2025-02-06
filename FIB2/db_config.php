@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root"; // Change this if you have a different DB username
-$password = ""; // Change this if you have a DB password
+$username = "root"; 
+$password = "";
 $dbname = "finditback";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
